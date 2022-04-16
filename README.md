@@ -44,7 +44,7 @@ I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professiona
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
 </div>  
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ovitorsena" target="_blank">
+<a href="https://linkedin.com/in/ovitorsena" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
