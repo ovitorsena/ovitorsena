@@ -37,6 +37,8 @@ I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professiona
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Netiqueta da Comunicação Assíncrona](https://vitorsena.com.br/netiqueta-comunicao-assincrona/)
+- [Kintsugi : O poder das nossas falhas e cicatrizes](https://vitorsena.com.br/kintsugi/)
 <!-- BLOG-POST-LIST:END -->
 
 
