@@ -35,9 +35,6 @@ I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professiona
 
 - 😆 Fun fact: I have an Phd in C.S.I and Criminal Minds  
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
 <h3 align="left">Connect with me:</h3>
