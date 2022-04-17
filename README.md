@@ -23,7 +23,7 @@ I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professiona
 
 
 
-- 📝 I regularly write articles on [vitorsena.com.br](vitorsena.com.br)
+- 📝 I regularly write articles on [vitorsena.com.br](https://vitorsena.com.br)
 
 
 - 📫 How to reach me **contact@vitorsena.com / contato@vitorsena.com.br**
