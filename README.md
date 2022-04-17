@@ -35,7 +35,7 @@ I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professiona
 
 - 😆 Fun fact: I have an Phd in C.S.I and Criminal Minds  
 
-# Blog posts
+# Blog posts ( PT-BR )
 <!-- BLOG-POST-LIST:START -->
 - [Netiqueta da Comunicação Assíncrona](https://vitorsena.com.br/netiqueta-comunicao-assincrona/)
 - [Kintsugi : O poder das nossas falhas e cicatrizes](https://vitorsena.com.br/kintsugi/)
