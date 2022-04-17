@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in Ghostposts
-        uses: ovitorsena/blog-post-workflow@master
+        uses: ovitorsena/ovitorsena/.github/workflows/blog-post-workflow@master
         with:
           feed_list: "https://vitorsena.com.br/rss/"
