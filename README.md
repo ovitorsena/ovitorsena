@@ -5,9 +5,7 @@
 
 # <div align="center">About me
 
-I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professional | 💭 Starting a journey to create data engineering projects and products | 🧠🏳️‍🌈 Autistic | Embrace the neurodiversity | 
-
-🗣️ Semi-verbal |  ⚠️ Allergic to small talk</div>  
+I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professional | 💭 Starting a journey to create data engineering projects and products | 🧠🏳️‍🌈 Autistic | Embrace the neurodiversity | 🗣️ Semi-verbal 
   
 
 - 🔭 I’m currently working on my own company [Hyperionity](https://hyperionity.com.br)  
