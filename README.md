@@ -35,8 +35,11 @@ I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professiona
 
 # Blog posts ( PT-BR )
 <!-- BLOG-POST-LIST:START -->
-- [Netiqueta da Comunicação Assíncrona](https://vitorsena.com.br/netiqueta-comunicao-assincrona/)
-- [Kintsugi : O poder das nossas falhas e cicatrizes](https://vitorsena.com.br/kintsugi/)
+- [Beige Is The New Black](https://vitorsena.com.br/beige-is-the-new-black/)
+- [Berlin Art Week](https://vitorsena.com.br/berlin-art-week/)
+- [Living With Minimalists](https://vitorsena.com.br/living-with-minimalist/)
+- [Silver Iceland](https://vitorsena.com.br/iceland/)
+- [Creation Of Waves](https://vitorsena.com.br/creation-of-waves/)
 <!-- BLOG-POST-LIST:END -->
 
 
