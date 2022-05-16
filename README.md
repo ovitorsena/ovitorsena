@@ -35,11 +35,11 @@ I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professiona
 
 # Blog posts ( PT-BR )
 <!-- BLOG-POST-LIST:START -->
-- [Beige Is The New Black](https://vitorsena.com.br/beige-is-the-new-black/)
-- [Berlin Art Week](https://vitorsena.com.br/berlin-art-week/)
-- [Living With Minimalists](https://vitorsena.com.br/living-with-minimalist/)
-- [Silver Iceland](https://vitorsena.com.br/iceland/)
-- [Creation Of Waves](https://vitorsena.com.br/creation-of-waves/)
+- [Kintsugi : O poder das nossas falhas e cicatrizes](https://vitorsena.com.br/principios/kintsugi/)
+- [Berlin Art Week](https://vitorsena.com.br/design/berlin-art-week/)
+- [Living With Minimalists](https://vitorsena.com.br/style/living-with-minimalist/)
+- [Silver Iceland](https://vitorsena.com.br/style/iceland/)
+- [Creation Of Waves](https://vitorsena.com.br/design/creation-of-waves/)
 <!-- BLOG-POST-LIST:END -->
 
 
