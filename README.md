@@ -36,10 +36,9 @@ I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professiona
 # Blog posts ( PT-BR )
 <!-- BLOG-POST-LIST:START -->
 - [Kintsugi : O poder das nossas falhas e cicatrizes](https://vitorsena.com.br/principios/kintsugi/)
-- [Berlin Art Week](https://vitorsena.com.br/geral/berlin-art-week/)
-- [Cycling Towards Wind](https://vitorsena.com.br/geral/cycling-towards-wind/)
-- [Bedtime Stories Teachings](https://vitorsena.com.br/geral/bedtime-stories-techings/)
-- [Flying Capes](https://vitorsena.com.br/geral/flying-capes/)
+- [Embracing Old Age](https://vitorsena.com.br/geral/embracing-old-age/)
+- [Moonlight Reflections](https://vitorsena.com.br/geral/moonlight-reflections/)
+- [How To Play Guitar](https://vitorsena.com.br/geral/how-to-play-guitar/)
 <!-- BLOG-POST-LIST:END -->
 
 
