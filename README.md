@@ -5,26 +5,26 @@
 
 # <div align="center">About me
 
-I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professional | 💭 Starting a journey to create data engineering projects and products | 🧠🏳️‍🌈 Autistic | Embrace the neurodiversity | 🗣️ Semi-verbal 
+I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professional | 💭 Starting a journey to create data engineering projects and products | 🧠🏳️‍🌈 Autistic | Embrace the neurodiversity | 
   
 
 - 🔭 I’m currently working on my own company [Hyperionity](https://hyperionity.com.br)  
   
 
-- 🌱 I’m currently learning Data Pipeline/Analysis/Viz, Python, SQL, Javascript, Cloud Computing,Kubernetes and Neuroscience.  
+- 🌱 I’m currently learning Data Pipeline/Analysis/Viz, Python, SQL, Javascript, Cloud Computing, Kubernetes and Neuroscience.  
 
 
-- 👯 I’m looking to collaborate on **data products**
+- 👯 I’m looking to collaborate on **data products and SEO projects**
 
 
-- 🤝 I’m looking for help with **data engineering**
+- 🤝 I’m looking for help with **data engineering and product design**
 
 
 
-- 📝 I regularly write articles on [vitorsena.com.br](https://vitorsena.com.br)
+- 📝 I regularly write articles on [vitorsena.com.br](https://vitorsena.com.br) and [vitorsena.com](https://vitorsena.com)
 
 
-- 📫 How to reach me **contact@vitorsena.com / contato@vitorsena.com.br**
+- 📫 How to reach me **contato@vitorsena.com.br / contact@vitorsena.com**
 
   
 
