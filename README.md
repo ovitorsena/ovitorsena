@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 </div>  
-  
+
+![](https://komarev.com/ghpvc/?username=ovitorsena&style=for-the-badge)
 
 # <div align="center">About me
 
