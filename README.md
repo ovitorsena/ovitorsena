@@ -37,9 +37,6 @@ I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professiona
 # Blog posts ( PT-BR )
 <!-- BLOG-POST-LIST:START -->
 - [Kintsugi : O poder das nossas falhas e cicatrizes](https://vitorsena.com.br/principios/kintsugi/)
-- [Embracing Old Age](https://vitorsena.com.br/geral/embracing-old-age/)
-- [Moonlight Reflections](https://vitorsena.com.br/geral/moonlight-reflections/)
-- [How To Play Guitar](https://vitorsena.com.br/geral/how-to-play-guitar/)
 <!-- BLOG-POST-LIST:END -->
 
 
