@@ -34,7 +34,7 @@ I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professiona
 
 - 😆 Fun fact: I have an Phd in C.S.I and Criminal Minds  
 
-# Blog posts ( PT-BR )
+# Blog posts ( PORTUGUESE | ENGLISH )
 <!-- BLOG-POST-LIST:START -->
 - [Kintsugi : The power of our flaws and scars](https://vitorsena.com/kintsugi/)
 - [Kintsugi : O poder das nossas falhas e cicatrizes](https://vitorsena.com.br/principios/kintsugi/)
