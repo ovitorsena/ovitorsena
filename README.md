@@ -12,7 +12,7 @@ I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professiona
 - 🔭 I’m currently working on my own company [Hyperionity](https://hyperionity.com.br)  
   
 
-- 🌱 I’m currently learning Data Pipeline/Analysis/Viz, Python, SQL, Javascript, Cloud Computing, Kubernetes and Neuroscience.  
+- 🌱 I’m currently learning Data Pipeline/Analysis/Viz, Python, SQL, Javascript, Java, Cloud Computing, Kubernetes and Neuroscience.  
 
 
 - 👯 I’m looking to collaborate on **data products and SEO projects**
@@ -29,7 +29,7 @@ I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professiona
 
   
 
-- ❓ Ask me about anything related to Product / SEO / Analytics and Behavior.  
+- ❓ Ask me about anything related to Product / SEO / B.I and Analytics.  
   
 
 - 😆 Fun fact: I have an Phd in C.S.I and Criminal Minds  
