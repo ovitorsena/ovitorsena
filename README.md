@@ -36,6 +36,7 @@ I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professiona
 
 # Blog posts ( PORTUGUESE | ENGLISH )
 <!-- BLOG-POST-LIST:START -->
+- [O que eu aprendi com os meus erros?](https://vitorsena.com.br/reflexoes/o-que-eu-aprendi-com-os-meus-erros/)
 - [Kintsugi : The power of our flaws and scars](https://vitorsena.com/kintsugi/)
 - [Kintsugi : O poder das nossas falhas e cicatrizes](https://vitorsena.com.br/principios/kintsugi/)
 <!-- BLOG-POST-LIST:END -->
