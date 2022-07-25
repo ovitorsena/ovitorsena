@@ -15,17 +15,17 @@ I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professiona
 - 🌱 I’m currently learning Data Pipeline/Analysis/Viz, Python, SQL, Javascript, Java, Cloud Computing, Kubernetes and Neuroscience.  
 
 
-- 👯 I’m looking to collaborate on **data products and SEO projects**
+- 👯 I’m looking to collaborate on **data products**
 
 
-- 🤝 I’m looking for help with **data engineering and product design**
+- 🤝 I’m looking for help with **data engineering and data analytics**
 
 
 
 - 📝 I regularly write articles on [vitorsena.com.br](https://vitorsena.com.br) and [vitorsena.com](https://vitorsena.com)
 
 
-- 📫 How to reach me **contato@vitorsena.com.br / contact@vitorsena.com**
+- 📫 How to reach me **contato@vitorsena.com / contact@vitorsena.com**
 
   
 
