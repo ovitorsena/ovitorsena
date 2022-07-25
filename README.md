@@ -6,7 +6,7 @@
 
 # <div align="center">About me
 
-I'm Vitor Sena, a brazilian 👨‍💻 data and product independent professional | 💭 Starting a journey to create data engineering projects and products | 🧠🏳️‍🌈 Autistic | Embrace the neurodiversity | 
+I'm Vitor Sena, a brazilian 👨‍💻 data professional | 💭 Starting a journey to create data engineering projects and products | 🧠🏳️‍🌈 Autistic | Embrace the neurodiversity | 
   
 
 - 🔭 I’m currently working on ...
