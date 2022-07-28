@@ -9,11 +9,10 @@
 I'm Vitor Sena, a brazilian 👨‍💻 data professional | 💭 Starting a journey to create data engineering projects and products | 🧠🏳️‍🌈 Autistic | Embrace the neurodiversity | 
   
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working at [Update soon]...
   
 
-- 🌱 I’m currently learning Data Pipeline/Analysis/Viz, Python, SQL, Javascript, Java, Cloud Computing, Kubernetes and Neuroscience.  
-
+- 🌱 I’m currently learning Data Engineering/Analysis/Viz, Python, SQL/NoSQL, Javascript, Java, Cloud Computing.
 
 - 👯 I’m looking to collaborate on **data products**
 
