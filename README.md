@@ -9,30 +9,20 @@
 I'm Vitor Sena, a brazilian 👨‍💻 data professional | 💭 Starting a journey to create data engineering projects and products | 🧠🏳️‍🌈 Autistic | Embrace the neurodiversity | 
   
 
-- 🔭 I’m currently working at [Update soon]...
+- 🔭 I’m currently working at XP Inc...
   
 
-- 🌱 I’m currently learning Data Engineering/Analysis/Viz, Python, SQL/NoSQL, Javascript, Java, Cloud Computing.
+- 🌱 I’m currently learning Data Engineering/Analysis/Viz /  Python / SQL/NoSQL / Java / Cloud Computing [Azure].
 
 - 👯 I’m looking to collaborate on **data products**
 
-
 - 🤝 I’m looking for help with **data engineering and data analytics**
-
-
 
 - 📝 I regularly write articles on [vitorsena.com.br](https://vitorsena.com.br) and [vitorsena.com](https://vitorsena.com)
 
+- 📫 Reach me **contato@vitorsena.com / contact@vitorsena.com**
 
-- 📫 How to reach me **contato@vitorsena.com / contact@vitorsena.com**
-
-  
-
-- ❓ Ask me about anything related to Product / SEO / B.I and Analytics.  
-  
-
-- 😆 Fun fact: I have an Phd in C.S.I and Criminal Minds  
-
+ 
 # Blog posts ( PORTUGUESE | ENGLISH )
 <!-- BLOG-POST-LIST:START -->
 - [O que eu aprendi com os meus erros?](https://vitorsena.com.br/reflexoes/o-que-eu-aprendi-com-os-meus-erros/)
