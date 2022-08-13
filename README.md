@@ -6,12 +6,12 @@
 
 # <div align="center">About me
 
-I'm Vitor Sena, a brazilian 👨‍💻 data professional | 🧠🏳️‍🌈 Autistic | Embrace the neurodiversity | 
+I'm Vitor Sena, a brazilian 👨‍💻 data professional | 🧠🏳️‍🌈 Autistic | Embrace the diversity | 
   
 
 - 🔭 I’m currently working at XP Inc...
   
-- 🌱 I’m currently learning Data Engineering/Analysis/Viz /  Python / SQL/NoSQL / Java / Cloud Computing [Azure].
+- 🌱 I’m currently learning Data Engineering / Analysis/ Viz /  Python / SQL/ NoSQL / Java / Cloud Computing [Azure].
 
 - 👯 I’m looking to collaborate on **data products**
 
