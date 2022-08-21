@@ -17,18 +17,7 @@ I'm Vitor Sena, a brazilian 👨‍💻 data professional | 🧠🏳️‍🌈 A
 
 - 🤝 I’m looking for help with **data engineering and data analytics**
 
-- 📝 I regularly write articles on [vitorsena.com.br](https://vitorsena.com.br) and [vitorsena.com](https://vitorsena.com)
-
 - 📫 Reach me **contato@vitorsena.com / contact@vitorsena.com**
-
- 
-# Blog posts ( PORTUGUESE | ENGLISH )
-<!-- BLOG-POST-LIST:START -->
-- [O que eu aprendi com os meus erros?](https://vitorsena.com.br/reflexoes/o-que-eu-aprendi-com-os-meus-erros/)
-- [Kintsugi : The power of our flaws and scars](https://vitorsena.com/kintsugi/)
-- [Kintsugi : O poder das nossas falhas e cicatrizes](https://vitorsena.com.br/principios/kintsugi/)
-<!-- BLOG-POST-LIST:END -->
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
