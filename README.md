@@ -17,11 +17,11 @@ I'm Vitor Sena, a brazilian 👨‍💻 data professional | 🧠🏳️‍🌈 A
 
 - 🤝 I’m looking for help with **data engineering and data analytics**
 
-- 📫 Reach me **contato@vitorsena.com / contact@vitorsena.com**
+- 📫 Reach me **vitorsm.contato@gmail.com / vitorsm.contact@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ovitorsena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ovitorsena" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vitorsena-data" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ovitorsena" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
